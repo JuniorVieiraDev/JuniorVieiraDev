@@ -2,7 +2,6 @@
 
 ### Aqui você não vai ver Calculadora !
 
-##
 ### Comecei com 14 anos desenvolvendo jogos, com 17 migrei para desenvolvimento web, estou focado em me tornar melhor a cada dia 
 
 
