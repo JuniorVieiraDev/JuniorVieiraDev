@@ -1,5 +1,10 @@
 ## Eae, Pode me chamar de Junior 👋
+
 ### Aqui você não vai ver Calculadora !
+
+##
+
+### Comecei com 14 anos desenvolvendo jogos, com 17 migrei para desenvolvimento web, estou focado em me tornar melhor a cada dia 
 
 
 <div style="display: inline_block"><br>
