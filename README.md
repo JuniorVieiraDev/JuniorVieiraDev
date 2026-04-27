@@ -2,25 +2,15 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">🚀 Desenvolvedor Front End | JavaScript & NextJs.<br><br>Crio sistemas para empresas, Saas, e Lps incríveis.<br><br>Empreendendo através do desenvolvimento web focado no nicho de construção, sigo em busca de me tornar rico.</p>
 
 ###
 
-<p align="right">Minhas Redes</p>
+<h2 align="left">Minhas Redes</h2>
 
 ###
 
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-</div>
-
-###
-
-<h2 align="center">Linguagens e Ferramentas do meu dia a dia</h2>
+<h2 align="left">Linguagens e Ferramentas do meu dia a dia</h2>
 
 ###
 
@@ -63,5 +53,13 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h2 align="left">Meus projetos</h2>
+
+###
+
+<p align="left">-🏗️ Portfólio - Meu portfólio de Front-End<br>- 🧾 Agência - Software House para construtores<br>- 🧾 Conv - Saas de convites (MRR R$90,00)<br>- 🧾 Front - Comunidade de Nextjs (MRR R$2,500)</p>
 
 ###
