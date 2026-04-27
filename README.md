@@ -16,6 +16,13 @@
 
 ###
 
+## Meus Projetos
+
+- 🏗️ **[Portfólio](https://openclaw.ai)** - Meu portfólio de Front-End
+- 🧾 **[Agência](https://github.com/amantus-ai/vibetunnel)** - Software House para construtores
+
+###
+
 <h2 align="left">Linguagens e Ferramentas do meu dia a dia</h2>
 
 ###
@@ -59,13 +66,3 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
-
-###
-
-<h2 align="left">Meus projetos</h2>
-
-###
-
-<p align="left">-🏗️ Portfólio - Meu portfólio de Front-End<br>- 🧾 Agência - Software House para construtores<br>- 🧾 Conv - Saas de convites (MRR R$90,00)<br>- 🧾 Front - Comunidade de Nextjs (MRR R$2,500)</p>
-
-###
