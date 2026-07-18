@@ -10,7 +10,7 @@
 <h2 align="left">Minhas Redes</h2>
 
 [![TikTok](https://img.shields.io/badge/-@itsjuniorvieira-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsjuniorvieira)
-[![LinkedIn](https://img.shields.io/badge/-itsjuniorvieira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaldo-junior-dev/)
+[![LinkedIn](https://img.shields.io/badge/-in/evaldojuniordev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaldo-junior-dev/)
 
 ###
 
