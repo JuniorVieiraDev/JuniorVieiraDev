@@ -2,7 +2,7 @@
 
 ###
 
-📍 **Engenheiro de Software** | 🚀 **Empreendedor** 
+📍 **Fron End Junior**
 <p align="left">🚀Empreendendo através do desenvolvimento web focado no nicho de construção, sigo em busca de me tornar rico.</p>
 
 ###
@@ -10,16 +10,13 @@
 <h2 align="left">Minhas Redes</h2>
 
 [![TikTok](https://img.shields.io/badge/-@itsjuniorvieira-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsjuniorvieira)
-[![Instagram](https://img.shields.io/badge/-@itsjuniorvieira-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itsjuniorvieira)
 [![LinkedIn](https://img.shields.io/badge/-itsjuniorvieira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjuniorvieira)
-[![YouTube](https://img.shields.io/badge/-@itsjuniorvieira-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itsjuniorvieira)
 
 ###
 
 ## Meus Projetos
 
-- 🏗️ **[Portfólio](https://openclaw.ai)** - Meu portfólio de Front-End
-- 🧾 **[Agência](https://github.com/amantus-ai/vibetunnel)** - Software House para construtores
+- 🏗️ **[Portfólio](https://juniorvieiradev.com)** - Meu portfólio de Front-End
 
 ###
 
