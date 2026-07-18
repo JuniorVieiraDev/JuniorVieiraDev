@@ -3,7 +3,7 @@
 ###
 
 📍 **Fron End Junior**
-<p align="left">🚀Empreendendo através do desenvolvimento web focado no nicho de construção, sigo em busca de me tornar rico.</p>
+<p align="left">🚀Me chamo Evaldo, tenho 23 anos, comecei na programação com 14 anos fazendo jogos e desde então nunca mais sai da área de TI, segui na área de criação de jogos até 17 anos e migrei para o desenvolvimento web, desde então venho sendo muito feliz nessa área e busco a construção de uma carreira sólida e robusta.</p>
 
 ###
 
